@@ -1,0 +1,1 @@
+# Proje-Belirtilmemis-Sirket-Python-ScikitLearn-ile-Lineer-Cebir-Konseptleri
